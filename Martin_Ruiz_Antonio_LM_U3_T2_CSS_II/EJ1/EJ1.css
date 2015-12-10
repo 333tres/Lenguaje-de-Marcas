@@ -1,0 +1,12 @@
+
+* { font-family: sans-serif}
+
+#primero  p { color: #3477BD}
+
+a { color: red; font-weight: bold}
+
+em { background: #FDFCBC}
+
+em.especial { background: #FFCC99; border: 2px solid #FF9900; padding: .1em}
+
+.normal span { font-weight: bold}

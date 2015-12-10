@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<libreta>
+
+<marcador id="1">
+<nombre>Htcmania</nombre>
+<URL>www.htcmania.com</URL>
+</marcador>
+
+<marcador id="2">
+<nombre>Xataka</nombre>
+<URL>www.xataka.com</URL>
+</marcador>
+
+<marcador id="3">
+<nombre>Dekazeta</nombre>
+<URL>www.dekazeta.com</URL>
+</marcador>
+
+<marcador id="4">
+<nombre>ABC</nombre>
+<URL>www.abc.es</URL>
+</marcador>
+
+<marcador id="5">
+<nombre>ElOtroLado</nombre>
+<URL>www.elotrolado.com</URL>
+</marcador>
+
+</libreta>

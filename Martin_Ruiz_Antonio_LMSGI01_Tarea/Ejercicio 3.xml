@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Horario>
+
+<Vuelo id="1">
+<compañia>Ryanair</compañia>
+<nºvuelo>478</nºvuelo>
+<origen>Sevilla</origen>
+<destino>La Palma</destino>
+<ruta>3</ruta>
+<hora_salida>07:00</hora_salida>
+<llegada>09:30</llegada>
+
+</Vuelo>
+
+<Vuelo id="2">
+<compañia>Spanair</compañia>
+<nºvuelo>169</nºvuelo>
+<origen>Barcelona</origen>
+<destino>Roma</destino>
+<ruta>8</ruta>
+<hora_salida>15:00</hora_salida>
+<llegada>18:00</llegada>
+
+</Vuelo>
+
+<Vuelo id="3">
+<compañia>Iberia</compañia>
+<nºvuelo>778</nºvuelo>
+<origen>Madrid</origen>
+<destino>Helsinki</destino>
+<ruta>9</ruta>
+<hora_salida>16:00</hora_salida>
+<llegada>21:00</llegada>
+
+</Vuelo>
+
+<Vuelo id="4">
+<compañia>Binter</compañia>
+<nºvuelo>32</nºvuelo>
+<origen>Fuerteventura</origen>
+<destino>Tenerife</destino>
+<ruta>10</ruta>
+<hora_salida>10:00</hora_salida>
+<llegada>10:45</llegada>
+
+</Vuelo>
+
+<Vuelo id="5">
+<compañia>Iberia</compañia>
+<nºvuelo>554</nºvuelo>
+<origen>Sevilla</origen>
+<destino>China</destino>
+<ruta>79</ruta>
+<hora_salida>06:45</hora_salida>
+<llegada>23:00</llegada>
+
+</Vuelo>
+
+</Horario>

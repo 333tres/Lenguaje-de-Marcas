@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<agenda>
+
+<persona id="1" nombre="Pepe" telefono="650769782">
+</persona>
+
+<persona id="2" nombre="Juan" telefono="650564272">
+</persona>
+
+<persona id="3" nombre="Carlos" telefono="634684982">
+</persona>
+
+<persona id="4">
+<nombre>Luis</nombre>
+<telefono>687981262</telefono>
+</persona>
+
+<persona id="5">
+<nombre>Pedro</nombre>
+<telefono>658579812</telefono>
+</persona>
+
+</agenda>

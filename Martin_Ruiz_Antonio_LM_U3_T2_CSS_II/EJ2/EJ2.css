@@ -1,0 +1,26 @@
+
+h1#titulo { color: #008484}
+ 
+strong { color: red}
+span.destacado { color: #FFCA35}
+ 
+h2#subtitulo { color: blue}
+
+a { color: red}
+a em { color: blue}
+ 
+span.especial { color: #8104F6}
+ 
+
+table {border:1px solid black; border-collapse:collapse}
+caption { color: blue}
+tr {border:1px solid black; border-collapse:collapse}
+th { color: red; border:1px solid black; border-collapse:collapse}
+th.especial { color: #FFCA35}
+td { color: #01841D; border:1px solid black; border-collapse:collapse}
+td strong { color: #FFCA35}
+
+div#adicional p { color: #9CB20B}
+div#adicional span#especial { color: #FC16FC}
+div#adicional a { color: #01841D}
+
